@@ -3,7 +3,7 @@ public class helloWorld
 public static void main(String args[])
 {
     demo obj = new demo();
-    obj.num=18;
+    obj.num=20;
     obj.str="hello";
     obj.show();
 }
